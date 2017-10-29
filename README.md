@@ -8,3 +8,31 @@ Por lo anterior, es primordial encontrar formas o estrategias para disminuir la 
 El estudio se justifica en lo que respecta a conveniencia y relevancia, debido a que se refiere a un problema que afecta virtualmente todos los días del año a una gran parte de la población santiaguina, , por lo que cualquier aporte que se pueda realizar en la defensa de la salud de la población es ampliamente justificado.
 
 La viabilidad del estudio es alta, ya que el metro tren, es un espacio público y por ende al alcance de todos nosotros, donde podemos realizar cualquier medición o experimento que se requiera, también los datos acerca del metro, al ser una empresa pública, son de fácil accesibilidad.
+
+
+
+# Diseño metodologico
+
+## tipo de estudio
+
+Se realizara un estudio con un diseño no experimental en donde nos enfocaremos en como se desarrollan las variables. En este diseño se empleara una metodologia transeccional de tipo descriptiva para poder recopilar informacion.   
+
+## muestra
+
+La muestra del estudio consistira en 3 grupos de personas, los que habitualmente ocupan mas el metro como transporte, los que utilizan preferencialmente buses del transantiago y la gente que no utiliza ninguno de estos 2 para movilizarse, por lo que la muestra sería gente que se encuentra en la ciudad de Santiago.
+
+## Intrumentos 
+
+Como intrumento se ocupara una encuesta que constara de 3 preguntas sencillas:
++ ¿Cual es el transporte que mas ocupa para movilizarse?
+  + Transantiago
+  + Metro
+  + Otro (indicar)
++ ¿Tiempo aproximado de uso del medio de transporte en la semana?  
+  + entre 5-10 hrs.
+  + entre 15-20 hrs.
+  + Otra cantidad (indicar)
++ ¿Cantidad de veces que se ha resfriado en el año?
+  + entre 1 a 3 veces
+  + entre 4 a 5 veces
+  + Otra cantidad (indicar)
