@@ -36,3 +36,9 @@ Como intrumento se ocupara una encuesta que constara de 3 preguntas sencillas:
   + entre 1 a 3 veces
   + entre 4 a 5 veces
   + Otra cantidad (indicar)
+
+# Referencias
+
+Francisco Hernández-Chavarría. (2002). Factores intrinsecos de los agentes infecciosos. EUNED. _Fundamentos de Epidemiología: El Arte Detectivesco de la Investigacion Epidemiólogica_. (_pp_. 72)
+Shan Mei, Bin Chen, Yifan Zhu, M.H. Lees, A.V. Boukhanovsky, P.M.A. Sloot. ( May 2015) Simulating city-level airborne infectious diseases. Elsevier, Volumen 51, 97-105.
+Yang, Y., Atkinson, P. y Ettema, D. (2008). Modelado individual basado en la actividad espaciotemporal de la transmisión de enfermedades infecciosas dentro de una ciudad. Revista de la Royal Society Interface , 5 (24), 759-772. http://doi.org/10.1098/rsif.2007.1218
